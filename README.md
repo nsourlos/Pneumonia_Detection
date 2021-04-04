@@ -1,4 +1,4 @@
-# Pneumonia Detection from Chest-Xray Images
+﻿# Pneumonia Detection from Chest-Xray Images
 Udacity project for AI in Healthcare - Data from Kaggle
 
 ## Project Overview: 
@@ -36,4 +36,4 @@ For this project it is strongly encouraged the use of GPUs to accelerate the tra
 
 The paper used is: https://arxiv.org/pdf/1711.05225.pdf
 
-The link to the data is: https://www.kaggle.com/nih-chest-xrays/data
+The link to the data is: ht
